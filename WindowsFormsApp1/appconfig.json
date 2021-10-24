@@ -1,0 +1,11 @@
+{
+  "EPPlus": {
+    "ExcelPackage": {
+      "LicenseContext": "NonCommercial" //The license context used
+    }
+  },
+  "ConnectionStrings": {
+    "SQLConn": "Server=SHELLI-IR18UQA; Initial Catalog=Testing;Integrated Security = true;"
+  },
+  "listBoxSProc": "dbo.usp__GetDataSources"
+}
